@@ -1,0 +1,3 @@
+这里是BingChuan777的学习记录之基本元素
+包含：字符、数组、簇、矩阵、布尔、比较等
+例程来源：https://www.bilibili.com/video/av48765823?p=2
