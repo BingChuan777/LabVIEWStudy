@@ -1,2 +1,3 @@
-这里是BingChuan777的学习记录之数组
-例程来源：https://www.bilibili.com/video/av48765823?p=2
+杩欓噷鏄疊ingChuan777鐨勫涔犺褰曚箣鏁扮粍<br>
+鍖呭惈鏁扮粍銆佺皣銆佺煩闃点�佸竷灏斻�佹瘮杈冪瓑<br>
+渚嬬▼鏉ユ簮锛歨ttps://www.bilibili.com/video/av48765823?p=2<br>
