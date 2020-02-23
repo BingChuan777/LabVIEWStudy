@@ -1,3 +1,4 @@
-������BingChuan777��ѧϰ��¼֮����Ԫ��
-�������ַ������顢�ء����󡢲������Ƚϵ�
-������Դ��https://www.bilibili.com/video/av48765823?p=2
+这里是BingChuan777的学习记录之基本元素
+包含：字符、数组、簇、矩阵、布尔、比较等
+分组过于冗余了，数组后面的内容全部都上传在了数组中
+例程来源：https://www.bilibili.com/video/av48765823?p=2
