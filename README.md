@@ -14,4 +14,5 @@
 11.LabVIEW与其他软件的连接<br>
 12.LabVIEW中子VI的设置及调用<br>
 13.高级技巧<br>
-例程来源：https://www.bilibili.com/video/av48765823?p=2
+例程来源：https://www.bilibili.com/video/av48765823?p=2<br>
+数据采集、数据传输及电脑接口目前为理论知识，后续更新<br>
